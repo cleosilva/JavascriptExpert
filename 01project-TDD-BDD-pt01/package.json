@@ -1,0 +1,17 @@
+{
+  "description": "Learning TDD and BDD with javascript",
+  "name": "project-tdd-bdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "seed": "node ./seed"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
