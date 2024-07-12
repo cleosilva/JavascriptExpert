@@ -1,1 +1,23 @@
-[{"id":"a7dbc0a8-fac7-4488-bc22-e0092eabe8ce","name":"Fortwo","releaseYear":2024,"available":true,"gasAvailable":true},{"id":"33b1c1f2-bc10-46fe-aaab-7ce6ebe5bfcf","name":"Alpine","releaseYear":2023,"available":true,"gasAvailable":true},{"id":"3ca59435-e028-43fb-b9ab-9bc35a495602","name":"Fortwo","releaseYear":2023,"available":true,"gasAvailable":true}]
+[
+    {
+        "id": "a7dbc0a8-fac7-4488-bc22-e0092eabe8ce",
+        "name": "Fortwo",
+        "releaseYear": 2024,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "33b1c1f2-bc10-46fe-aaab-7ce6ebe5bfcf",
+        "name": "Alpine",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "3ca59435-e028-43fb-b9ab-9bc35a495602",
+        "name": "Fortwo",
+        "releaseYear": 2023,
+        "available": true,
+        "gasAvailable": true
+    }
+]

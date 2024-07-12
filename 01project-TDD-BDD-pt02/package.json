@@ -1,17 +1,30 @@
 {
-  "name": "01_project_tdd_pt02",
+  "name": "01project-tdd-bdd-pt02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "npx mocha -w --parallel **/**/*.test.js",
-    "test:cov": "npx nyc mocha --parallel **/**/*.test.js",
+    "test": "npx mocha -w --parallel 'test/**/*.test.js'",
+    "test:cov": "npx nyc mocha --parallel test/**/*.test.js",
     "seed": "node ./seed"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^8.4.0"
+    "@faker-js/faker": "^8.4.1",
+    "chai": "^4.4.1",
+    "jsverify": "^0.8.4",
+    "knuth-shuffle": "^1.0.8",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4",
+    "util.promisify": "^1.1.2"
+  },
+  "dependencies": {
+    "@sinonjs/referee-sinon": "^12.0.0"
   }
 }

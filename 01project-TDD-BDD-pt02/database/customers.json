@@ -1,1 +1,17 @@
-[{"id":"9527b7a4-2c0d-4352-a846-4c2b5f821112","name":"Aurore","age":"24"},{"id":"42f0d7e1-e870-4344-bfa0-2831f30aea12","name":"Vicente","age":"36"},{"id":"2c063f29-85a0-416d-bc00-b2a0ff9a32f4","name":"Domenico","age":"35"}]
+[
+    {
+        "id": "9527b7a4-2c0d-4352-a846-4c2b5f821112",
+        "name": "Aurore",
+        "age": "24"
+    },
+    {
+        "id": "42f0d7e1-e870-4344-bfa0-2831f30aea12",
+        "name": "Vicente",
+        "age": "36"
+    },
+    {
+        "id": "2c063f29-85a0-416d-bc00-b2a0ff9a32f4",
+        "name": "Domenico",
+        "age": "35"
+    }
+]
